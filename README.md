@@ -8,3 +8,5 @@ CS books that I have read:
 5. PHP 7 в подлиннике / Дмитрий Котеров, Игорь Симдянов;
 6. Java для чайников / Java For Dummies / Барри Берд;
 7. Не заставляйте меня думать / Don't Make Me Think! A Common Sense Approach to Web Usability / Стив Круг
+8. Как сдвинуть гору Фудзи / How Would You Move Mount Fuji? / Уильям Паундстоун
+9. Дизайн привычных вещей / Design of Everyday Things / Дональд Норман
