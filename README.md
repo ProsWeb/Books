@@ -10,3 +10,4 @@ CS books that I have read:
 7. Не заставляйте меня думать / Don't Make Me Think! A Common Sense Approach to Web Usability / Стив Круг
 8. Как сдвинуть гору Фудзи / How Would You Move Mount Fuji? / Уильям Паундстоун
 9. Дизайн привычных вещей / Design of Everyday Things / Дональд Норман
+10. Руководство Джоэла Спольски по подбору программистов и управлению ими / Smart and Gets Things Done / Джоэл Спольски;
