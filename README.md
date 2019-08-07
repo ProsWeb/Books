@@ -11,3 +11,4 @@ CS books that I have read:
 8. Как сдвинуть гору Фудзи / How Would You Move Mount Fuji? / Уильям Паундстоун
 9. Дизайн привычных вещей / Design of Everyday Things / Дональд Норман
 10. Руководство Джоэла Спольски по подбору программистов и управлению ими / Smart and Gets Things Done / Джоэл Спольски;
+11. Человеческий фактор. Успешные проекты и команды / Peopleware: Productive Projects and Teams / Том ДеМарко, Тимоти Листер
