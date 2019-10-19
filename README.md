@@ -14,6 +14,8 @@ CS books that I have read.
 
 Человеческий фактор. Успешные проекты и команды / Peopleware: Productive Projects and Teams / Том ДеМарко, Тимоти Листер;
 
+Ради удовольствия: Рассказ нечаянного революционера / Just for Fun: The Story of an Accidental Revolutionary / Линус Торвальдс, Дэвид Даймонд / Linus Torvalds, David Diamond;
+
 ### Архитектура компьютера / Hardware:
 Код. Тайный язык информатики / Code: The Hidden Language of Computer Hardware and Software / Чарльз Петцольд;
 
