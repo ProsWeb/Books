@@ -30,6 +30,12 @@ PHP 7 в подлиннике / Дмитрий Котеров, Игорь Сим
 
 Java для чайников / Java For Dummies / Барри Берд;
 
+Java Generics and Collections / Maurice Naftalin and Philip Wadler;
+
+Философия Java / Thinking in Java / Брюс Эккель / Bruce Eckel;
+
+Java. Библиотека профессионала, том 1. Основы. / Core Java Volume 1 - Fundamentals / Кей С. Хорстманн / Сау S. Horstmann;
+
 ### Алгоритмы / Algorithms:
 Грокаем алгоритмы / Grokking Algorithms / Адитья Бхаргава / Aditya Y. Bhargava;
 
