@@ -16,6 +16,8 @@ CS books that I have read.
 
 Ради удовольствия: Рассказ нечаянного революционера / Just for Fun: The Story of an Accidental Revolutionary / Линус Торвальдс, Дэвид Даймонд / Linus Torvalds, David Diamond;
 
+Идеальный программист. Как стать профессионалом разработки ПО / The Clean Coder: A Code of Conduct for Professional Programmers / Роберт Мартин / Robert C. Martin;
+
 ### Архитектура компьютера / Hardware:
 Код. Тайный язык информатики / Code: The Hidden Language of Computer Hardware and Software / Чарльз Петцольд;
 
