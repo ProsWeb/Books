@@ -24,6 +24,8 @@ CS books that I have read.
 ### Методика интервьюирования / Interview puzzles:
 Как сдвинуть гору Фудзи / How Would You Move Mount Fuji? / Уильям Паундстоун;
 
+Карьера программиста / Cracking the Coding Interview: 189 Programming Questions And Solutions / Гэйл Лакман Макдауэлл / Gayle Laakmann McDowell;
+
 ### Дизайн / Design:
 Не заставляйте меня думать / Don't Make Me Think! A Common Sense Approach to Web Usability / Стив Круг;
 
