@@ -10,13 +10,16 @@ CS books that I have read.
 
 Лучшие примеры разработки ПО / The Best Software Writing / Джоэл Спольски;
 
+Ради удовольствия: Рассказ нечаянного революционера / Just for Fun: The Story of an Accidental Revolutionary / Линус Торвальдс, Дэвид Даймонд / Linus Torvalds, David Diamond;
+
+Идеальный программист. Как стать профессионалом разработки ПО / The Clean Coder: A Code of Conduct for Professional Programmers / Роберт Мартин / Robert C. Martin;
+
+### Разработка программных проектов / Software engineering and project management:
 Мифический человеко-месяц / Mythical Man-Month: Essays on Software Engineering /	Фредерик Брукс;
 
 Человеческий фактор. Успешные проекты и команды / Peopleware: Productive Projects and Teams / Том ДеМарко, Тимоти Листер;
 
-Ради удовольствия: Рассказ нечаянного революционера / Just for Fun: The Story of an Accidental Revolutionary / Линус Торвальдс, Дэвид Даймонд / Linus Torvalds, David Diamond;
-
-Идеальный программист. Как стать профессионалом разработки ПО / The Clean Coder: A Code of Conduct for Professional Programmers / Роберт Мартин / Robert C. Martin;
+Цель. Процесс непрерывного совершенствования / The Goal: A Process of Ongoing Improvement / Элияху М. Голдратт, Джефф Кокс / Eliyahu M. Goldratt, Jeff Cox;
 
 ### Архитектура компьютера / Hardware:
 Код. Тайный язык информатики / Code: The Hidden Language of Computer Hardware and Software / Чарльз Петцольд;
