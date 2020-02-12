@@ -21,6 +21,10 @@ CS books that I have read.
 
 Цель. Процесс непрерывного совершенствования / The Goal: A Process of Ongoing Improvement / Элияху М. Голдратт, Джефф Кокс / Eliyahu M. Goldratt, Jeff Cox;
 
+Цель-2. Дело не в везении / It's Not Luck / Элияху М. Голдратт / Eliyahu M. Goldratt;
+
+Бизнес с нуля. Метод Lean Startup для быстрого тестирования идей и выбора бизнес-модели / The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses / Эрик Рис / Eric Ries
+
 ### Архитектура компьютера / Hardware:
 Код. Тайный язык информатики / Code: The Hidden Language of Computer Hardware and Software / Чарльз Петцольд;
 
@@ -34,7 +38,7 @@ CS books that I have read.
 
 Дизайн привычных вещей / Design of Everyday Things / Дональд Норман;
 
-### Языки программирования / Programming languages:
+### Языки программирования и фреймворки / Programming languages and Software frameworks:
 PHP 7 в подлиннике / Дмитрий Котеров, Игорь Симдянов;
 
 Java для чайников / Java For Dummies / Барри Берд;
@@ -44,6 +48,8 @@ Java Generics and Collections / Maurice Naftalin and Philip Wadler;
 Философия Java / Thinking in Java / Брюс Эккель / Bruce Eckel;
 
 Java. Библиотека профессионала, том 1. Основы. / Core Java Volume 1 - Fundamentals / Кей С. Хорстманн / Сау S. Horstmann;
+
+Java Persistence API и Hibernate / Java Persistence with Hibernate / Кристиан Бауэр, Гэвин Кинг / Christian Bauer, Gavin King;
 
 ### Алгоритмы / Algorithms:
 Грокаем алгоритмы / Grokking Algorithms / Адитья Бхаргава / Aditya Y. Bhargava;
