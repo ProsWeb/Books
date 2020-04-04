@@ -38,9 +38,7 @@ CS books that I have read.
 
 Дизайн привычных вещей / Design of Everyday Things / Дональд Норман;
 
-### Языки программирования и фреймворки / Programming languages and Software frameworks:
-PHP 7 в подлиннике / Дмитрий Котеров, Игорь Симдянов;
-
+### Java Programming language:
 Java для чайников / Java For Dummies / Барри Берд;
 
 Java Generics and Collections / Maurice Naftalin and Philip Wadler;
@@ -49,6 +47,7 @@ Java Generics and Collections / Maurice Naftalin and Philip Wadler;
 
 Java. Библиотека профессионала, том 1. Основы. / Core Java Volume 1 - Fundamentals / Кей С. Хорстманн / Сау S. Horstmann;
 
+### Hibernate:
 Java Persistence API и Hibernate / Java Persistence with Hibernate / Кристиан Бауэр, Гэвин Кинг / Christian Bauer, Gavin King;
 
 ### Алгоритмы / Algorithms:
