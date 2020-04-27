@@ -53,3 +53,6 @@ Java Persistence API и Hibernate / Java Persistence with Hibernate / Крист
 ### Алгоритмы / Algorithms:
 Грокаем алгоритмы / Grokking Algorithms / Адитья Бхаргава / Aditya Y. Bhargava;
 
+### Git:
+Pro Git / Ben Straub, Scott Chacon;
+
