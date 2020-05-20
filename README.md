@@ -1,5 +1,5 @@
 # Books
-CS books that I have read.
+Книги по CS, которые я прочитал.
 
 ### Разработка ПО / Software development:
 Джоэл о программировании / Joel on Software / Джоэл Спольски;
