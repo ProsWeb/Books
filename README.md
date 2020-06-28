@@ -47,6 +47,8 @@ Java Generics and Collections / Maurice Naftalin and Philip Wadler;
 
 Java. Библиотека профессионала, том 1. Основы. / Core Java Volume 1 - Fundamentals / Кей С. Хорстманн / Сау S. Horstmann;
 
+Java. Библиотека профессионала, том 2. Расширенные средства программирования. / Core Java Volume 2 - Advanced Features / Кей С. Хорстманн / Сау S. Horstmann;
+
 ### Hibernate:
 Java Persistence API и Hibernate / Java Persistence with Hibernate / Кристиан Бауэр, Гэвин Кинг / Christian Bauer, Gavin King;
 
