@@ -28,6 +28,8 @@
 ### Архитектура компьютера / Hardware:
 Код. Тайный язык информатики / Code: The Hidden Language of Computer Hardware and Software / Чарльз Петцольд;
 
+Автоматное программирование / Надежда Поликарпова, Анатолий Шалыто;
+
 ### Методика интервьюирования / Interview puzzles:
 Как сдвинуть гору Фудзи / How Would You Move Mount Fuji? / Уильям Паундстоун;
 
