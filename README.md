@@ -14,6 +14,8 @@
 
 Идеальный программист. Как стать профессионалом разработки ПО / The Clean Coder: A Code of Conduct for Professional Programmers / Роберт Мартин / Robert C. Martin;
 
+Совершенный код / Code Complete / Стив Макконнелл / Steve McConnell
+
 ### Разработка программных проектов / Software engineering and project management:
 Мифический человеко-месяц / Mythical Man-Month: Essays on Software Engineering /	Фредерик Брукс;
 
