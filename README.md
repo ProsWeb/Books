@@ -17,15 +17,19 @@
 Совершенный код / Code Complete / Стив Макконнелл / Steve McConnell
 
 ### Разработка программных проектов / Software engineering and project management:
-Мифический человеко-месяц / Mythical Man-Month: Essays on Software Engineering /	Фредерик Брукс;
+Мифический человеко-месяц / Mythical Man-Month: Essays on Software Engineering / Фредерик Брукс / Fred Brooks;
 
-Человеческий фактор. Успешные проекты и команды / Peopleware: Productive Projects and Teams / Том ДеМарко, Тимоти Листер;
+Человеческий фактор. Успешные проекты и команды / Peopleware: Productive Projects and Teams / Том ДеМарко, Тимоти Листер / Tom DeMarco, Timothy Lister;
 
 Цель. Процесс непрерывного совершенствования / The Goal: A Process of Ongoing Improvement / Элияху М. Голдратт, Джефф Кокс / Eliyahu M. Goldratt, Jeff Cox;
 
 Цель-2. Дело не в везении / It's Not Luck / Элияху М. Голдратт / Eliyahu M. Goldratt;
 
-Бизнес с нуля. Метод Lean Startup для быстрого тестирования идей и выбора бизнес-модели / The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses / Эрик Рис / Eric Ries
+Бизнес с нуля. Метод Lean Startup для быстрого тестирования идей и выбора бизнес-модели / The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses / Эрик Рис / Eric Ries;
+
+Вальсируя с Медведями: управление рисками в проектах по разработке программного обеспечения / Waltzing with Bears: Managing Risk on Software Projects / Том ДеМарко, Тимоти Листер / Tom DeMarco, Timothy Lister;
+
+Как пасти котов. Наставление для программистов, руководящих другими программистами / Herding Cats: A Primer for Programmers Who Lead Programmers / Дж. Ханк Рейнвотер / Hank Rainwater;
 
 ### Архитектура компьютера / Hardware:
 Код. Тайный язык информатики / Code: The Hidden Language of Computer Hardware and Software / Чарльз Петцольд;
