@@ -31,7 +31,9 @@
 
 Как пасти котов. Наставление для программистов, руководящих другими программистами / Herding Cats: A Primer for Programmers Who Lead Programmers / Дж. Ханк Рейнвотер / Hank Rainwater;
 
-Программист-фанатик / Passionate Programmer / Чад Фаулер / Chad Fowler
+Программист-фанатик / Passionate Programmer / Чад Фаулер / Chad Fowler;
+
+Программист-прагматик / Pragmatic Programmer / Хант Эндрю, Томас Дэвид /  Andy Hunt, Dave Thomas;
 
 ### Архитектура компьютера / Hardware:
 Код. Тайный язык информатики / Code: The Hidden Language of Computer Hardware and Software / Чарльз Петцольд;
