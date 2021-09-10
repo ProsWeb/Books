@@ -18,6 +18,8 @@
 
 Экстремальное программирование. Разработка через тестирование / Кент Бек / Test-Driven Development by Example / Kent Beck
 
+Чистый код. Создание, анализ и рефакторинг / Роберт Мартин / Clean Code: A Handbook of Agile Software Craftsmanship / Robert Martin
+
 ### Разработка программных проектов / Software engineering and project management:
 Мифический человеко-месяц / Mythical Man-Month: Essays on Software Engineering / Фредерик Брукс / Fred Brooks;
 
