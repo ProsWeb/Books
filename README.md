@@ -20,6 +20,10 @@
 
 Чистый код. Создание, анализ и рефакторинг / Роберт Мартин / Clean Code: A Handbook of Agile Software Craftsmanship / Robert Martin
 
+Рефакторинг: улучшение проекта существующего кода / Мартин Фаулер / Refactoring: Improving the Design of Existing Code / Martin Fowler
+
+Рефакторинг кода на JavaScript. Улучшение проекта существующего кода / Мартин Фаулер / Refactoring: Improving the Design of Existing Code (2nd Edition) / Martin Fowler
+
 ### Разработка программных проектов / Software engineering and project management:
 Мифический человеко-месяц / Mythical Man-Month: Essays on Software Engineering / Фредерик Брукс / Fred Brooks;
 
